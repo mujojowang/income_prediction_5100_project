@@ -12,3 +12,5 @@ Task 1: binary classification
 Task 2: clustering
   - clustering.py --- find clusters among >50k
   TODO: find the center of each cluster for better interpretation
+
+Task 3: Multivariable analysis (TODO)
